@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "projects":[
+        {
+            "id":1,
+            "title":"create mobile app cksk",
+            "details":" lorem 123123",
+            "complete":false
+        },
+        {
+            "id":2,
+            "title":"create 55555 app cksk",
+            "details":" lorem 123123",
+            "complete":false
+        },
+        {
+            "id":3,
+            "title":"create 2342 app cksk",
+            "details":" lorem 123123",
+            "complete":true
+        }
+    ]
 }
